@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pokedeck/static/css/main.dc4d6ff2.css",
+    "main.js": "/pokedeck/static/js/main.834d2e29.js",
+    "index.html": "/pokedeck/index.html",
+    "main.dc4d6ff2.css.map": "/pokedeck/static/css/main.dc4d6ff2.css.map",
+    "main.834d2e29.js.map": "/pokedeck/static/js/main.834d2e29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.834d2e29.js"
+  ]
+}
